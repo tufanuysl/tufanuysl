@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tufan UYSAL</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate jr frontend developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **JavaScript...**
 
