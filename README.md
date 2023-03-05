@@ -27,7 +27,7 @@
 </div>
 
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjMWFiOTliNzJhMDQ2MWJhOTBkMmE4NGVjYjBiMTE3YjExZjViZiZjdD1n/OF0yOAufcWLfi/giphy.gif" alt="Welcome">
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjMWFiOTliNzJhMDQ2MWJhOTBkMmE4NGVjYjBiMTE3YjExZjViZiZjdD1n/OF0yOAufcWLfi/giphy.gif" alt="Welcome">
 
 
 </div>
