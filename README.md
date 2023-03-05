@@ -4,13 +4,13 @@
 <div class="row"
 <div class="col"
 <ul>
-  <li>🌱 I’m currently learning **JavaScript...**</li>
+  <li>🌱 I’m currently learning JavaScript...</li>
 
   <li>👨‍💻 All of my projects are available at [tufanuysal.net](tufanuysal.net)</li>
 
-  <li>💬 Ask me about **JavaScript**</li>
+  <li>💬 Ask me about JavaScrip</li>
 
-  <li>📫 How to reach me **tufanuysl@gmail.com**</li>
+  <li>📫 How to reach me tufanuysl@gmail.com</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,7 @@
 </div>
 
 
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjMWFiOTliNzJhMDQ2MWJhOTBkMmE4NGVjYjBiMTE3YjExZjViZiZjdD1n/OF0yOAufcWLfi/giphy.gif" alt="Welcome">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjMWFiOTliNzJhMDQ2MWJhOTBkMmE4NGVjYjBiMTE3YjExZjViZiZjdD1n/OF0yOAufcWLfi/giphy.gif" alt="Welcome">
 
 
 </div>
