@@ -4,13 +4,13 @@
 <div class="row"
 <div class="col"
 <ul>
-- 🌱 I’m currently learning **JavaScript...**
+  <li>🌱 I’m currently learning **JavaScript...**</li>
 
-- 👨‍💻 All of my projects are available at [tufanuysal.net](tufanuysal.net)
+  <li>👨‍💻 All of my projects are available at [tufanuysal.net](tufanuysal.net)</li>
 
-- 💬 Ask me about **JavaScript**
+  <li>💬 Ask me about **JavaScript**</li>
 
-- 📫 How to reach me **tufanuysl@gmail.com**
+  <li>📫 How to reach me **tufanuysl@gmail.com**</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
