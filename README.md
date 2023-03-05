@@ -6,9 +6,9 @@
 <ul>
   <li>🌱 I’m currently learning JavaScript...</li>
 
-  <li>👨‍💻 All of my projects are available at [tufanuysal.net](tufanuysal.net)</li>
+  <li>👨‍💻 All of my projects are available at tufanuysal.net</li>
 
-  <li>💬 Ask me about JavaScrip</li>
+  <li>💬 Ask me about JavaScript</li>
 
   <li>📫 How to reach me tufanuysl@gmail.com</li>
 </ul>
