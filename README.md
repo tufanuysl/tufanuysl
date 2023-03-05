@@ -3,6 +3,7 @@
 
 <div class="row"
 <div class="col"
+
 - 🌱 I’m currently learning **JavaScript...**
 
 - 👨‍💻 All of my projects are available at [tufanuysal.net](tufanuysal.net)
