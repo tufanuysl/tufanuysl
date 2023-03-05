@@ -4,7 +4,7 @@
 <div class="row"
 <div class="col"
 <ul>
-  <li> 🌱 I’m currently learning **JavaScript...**</li>
+- 🌱 I’m currently learning **JavaScript...**
 
 - 👨‍💻 All of my projects are available at [tufanuysal.net](tufanuysal.net)
 
