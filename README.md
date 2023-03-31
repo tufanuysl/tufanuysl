@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjMWFiOTliNzJhMDQ2MWJhOTBkMmE4NGVjYjBiMTE3YjExZjViZiZjdD1n/OF0yOAufcWLfi/giphy.gif" alt="welcome" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -62,11 +62,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[tufanuysl](https://github.com/tufanuysl)
-
-
-
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjMWFiOTliNzJhMDQ2MWJhOTBkMmE4NGVjYjBiMTE3YjExZjViZiZjdD1n/OF0yOAufcWLfi/giphy.gif" alt="Welcome">
 
 
 </div>
